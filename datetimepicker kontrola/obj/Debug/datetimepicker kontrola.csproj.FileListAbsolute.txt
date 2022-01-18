@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\bin\Debug\datetimepicker kontrola.exe.config
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\bin\Debug\datetimepicker kontrola.exe
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\bin\Debug\datetimepicker kontrola.pdb
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker kontrola.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker_kontrola.Form1.resources
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker_kontrola.Properties.Resources.resources
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker kontrola.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker kontrola.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker kontrola.exe
+C:\Users\sebas\source\repos\datetimepicker kontrola\datetimepicker kontrola\obj\Debug\datetimepicker kontrola.pdb
